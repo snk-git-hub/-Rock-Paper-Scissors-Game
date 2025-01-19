@@ -6,21 +6,6 @@ body {
     background-color: #f4f4f9;
     color: #333;
 }
-
-h1 {
-    font-size: 36px;
-    margin: 20px 0;
-    color: #444;
-}
-
-#game {
-    margin: 20px auto;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-
 button {
     background-color: #007bff;
     color: #fff;
@@ -31,7 +16,6 @@ button {
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-
 button:hover {
     background-color: #0056b3;
 }
@@ -41,7 +25,6 @@ button img {
     height: 30px;
     margin-right: 8px;
 }
-
 #result {
     margin-top: 20px;
     padding: 15px;
@@ -52,20 +35,16 @@ button img {
     width: 300px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
-
 #result h2 {
     font-size: 24px;
     margin: 0;
     color: #007bff;
 }
-
-/* Responsive Design */
 @media (max-width: 768px) {
     button {
         font-size: 14px;
         padding: 10px;
     }
-
     #result {
         width: 90%;
     }
