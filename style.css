@@ -59,6 +59,7 @@ button img {
     color: #007bff;
 }
 
+/* Responsive Design */
 @media (max-width: 768px) {
     button {
         font-size: 14px;
