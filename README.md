@@ -26,11 +26,11 @@ A fun and interactive implementation of the classic **Rock Paper Scissors** game
 ## 🎮 How to Play  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/rock-paper-scissors.git
+git clone https://github.com/snk-git-hub/-Rock-Paper-Scissors-Game.git
    ```  
 2. Navigate to the project directory:  
    ```bash
-   cd rock-paper-scissors
+cd -Rock-Paper-Scissors-Game
    ```  
 3. Open the `index.html` file in your browser.  
 
@@ -43,15 +43,4 @@ A fun and interactive implementation of the classic **Rock Paper Scissors** game
  
 _A simple, stylish interface for endless fun!_
 
----
-
-## 🌟 Contributions  
-Contributions are welcome! Feel free to submit a pull request or open an issue to suggest improvements or new features.
-
----
-
-## 📜 License  
-This project is licensed under the [MIT License](LICENSE).
-
----
 
