@@ -26,7 +26,7 @@ A fun and interactive implementation of the classic **Rock Paper Scissors** game
 ## 🎮 How to Play  
 1. Clone the repository:  
    ```bash
-git clone https://github.com/snk-git-hub/-Rock-Paper-Scissors-Game.git
+          git clone https://github.com/snk-git-hub/-Rock-Paper-Scissors-Game.git
    ```  
 2. Navigate to the project directory:  
    ```bash
